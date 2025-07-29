@@ -9,5 +9,3 @@ docker-compose up
 npm run start
 python3 app.py
 ```
-
-# Nepali-text_summarization
